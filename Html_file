@@ -1,0 +1,11 @@
+<!docktype html>
+<html>
+  <head>
+    <title> Сайт-портфолио PoliniD</title>
+    <link rel = "stylesheet"href="style.css">
+  </head>
+  <body>
+    <h1>Главная страница</h1> 
+    <p>Здесь будут обновления</p>
+  </body>
+</html>
